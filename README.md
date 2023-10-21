@@ -17,8 +17,14 @@
 ## IDE
 ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/ce25b169-77ad-4239-a303-f0424a26367a)
 
-<br>
 
+<img src="https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/b08934db-e41c-4ac7-a25d-c67efebf64f1" align="right">
+  
+ <a href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquinCss&layout=compact&theme=dark&hide_border=true" /></a> 
+
+
+
+</img>
 
 
 
