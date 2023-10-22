@@ -1,9 +1,10 @@
-# Workshop de ReadMe
+ # Workshop de ReadMe 
 -------
 
 <img align="left" src="https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/c0c5dfc3-0fd4-4297-b300-8c5912bb6220" width="450px" height="500px">
 
-## Olá mundo Estou fazendo curso de programação web full-stack no Instituto da Oportunidade Social.
+## Olá, mundo! Estou fazendo um curso de programação web full-stack no Instituto da Oportunidade Social.
+ <img width="100px" height="45px" src="https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/3b34368b-944e-4c6f-aae5-2b4b4877bfc8"/>
 
 ### Tecnologias que estou aprendendo:
 ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/1be7d6a3-660d-4b24-aa1a-690e790db457) ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/a3d3f463-6dcc-481c-b402-51f40caa1cf6) ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/f7d3d8a8-231e-4e1c-a771-b5b3c516a743) ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/f87db9f7-7b05-4881-b0ad-c2dea502ae51) 
@@ -22,6 +23,8 @@
 
   
  <a href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquinCss&layout=compact&theme=dark&hide_border=true" /></a> 
+
+
 
 
 
