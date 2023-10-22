@@ -46,7 +46,7 @@
 <p align="left">
 </p>
 
-  💼 Ferramentas:  **Word, Excel, PowerPoint, Canva, Ferramentas Google.**
+  💼 Ferramentas:  **Word, Excel, PowerPoint, Canva e Ferramentas Google.**
 
 
 <p align="left">
