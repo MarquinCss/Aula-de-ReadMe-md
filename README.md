@@ -1,7 +1,7 @@
  # Workshop de ReadMe 
 -------
 
-<img align="left" src="https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/c0c5dfc3-0fd4-4297-b300-8c5912bb6220" width="420px" height="500px">
+<img align="left" src="https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/c0c5dfc3-0fd4-4297-b300-8c5912bb6220" width="320px" height="420px">
 
 ## Olá, mundo! Estou fazendo um curso de programação web full-stack no Instituto da Oportunidade Social.
  
