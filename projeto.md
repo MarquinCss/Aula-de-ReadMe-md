@@ -27,7 +27,17 @@ A energia renovável é uma forma de energia que é gerada a partir de fontes qu
 
 </div>
 
-## Exemplos:
+
+
+<div align="center">
+  
+  ## Tecnologias usadas: (Desafio)
+  
+![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/f001cae5-3c6e-47ec-84f5-bdce1b65f6d61) ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/5c8cc038-edda-466d-9769-4d5b91d36f61)
+
+
+  
+</div> 
   
 
   <details>
