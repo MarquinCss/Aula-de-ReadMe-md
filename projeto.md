@@ -11,7 +11,7 @@
 
 <div align="center">
   
-| [<img loading="lazy" src="https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/930d4329-e5c6-4c19-89d7-ecf2d1955916" width=115 height=106><br><sub>Marco</sub>]() |  [<img loading="lazy" src="https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/1fc2206b-8d5d-4160-9bb6-c299c3ffb432" width=115 height=106><br><sub>Bianca</sub>]() |  
+| [<img loading="lazy" src="https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/930d4329-e5c6-4c19-89d7-ecf2d1955916" width=115 height=106><br><sub>Marco</sub>]() |  [<img loading="lazy" src="https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/1fc2206b-8d5d-4160-9bb6-c299c3ffb432" width=115 height=106><br><sub>Fernanda</sub>]() |  
 | :---: | :---: |
 </div> 
 
